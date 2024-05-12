@@ -83,6 +83,7 @@ endmodule
 
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![Screenshot (100)](https://github.com/HemapriyaOfficial/JKFLIPFLOP-USING-IF-ELSE/assets/147114275/0c26d2f0-1f5a-465d-88a8-f20bb0f909cf)
 
 
